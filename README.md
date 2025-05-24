@@ -62,7 +62,7 @@ Password:&nbsp;<strong>admin</strong></p>
 </div>
 <p></p>
 <p>That's it! I hope this <strong>Church Management System</strong> Source Code Will help you with what you are looking for. I hope this will also help you to learn other techniques for developing a PHP Project.</p>
-<p>This system has a pro version which has premium features. Just kindly contact <strong>Wesley Sinde</strong></p>
+<p>This system has a pro version which has premium features. Just kindly contact <strong>Joseph OKOLIMO</strong></p>
 <p><strong>For any inquiry and purchase.</strong><br>
 Email: <strong>okolimofficial@gmail.com</strong><br>
 Whatsapp: <strong>+256753271439</strong><br>
