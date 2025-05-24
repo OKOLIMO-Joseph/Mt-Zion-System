@@ -23,8 +23,8 @@ This Church Management System was developed using PHP, HTML, CSS, JavaScript, an
 <li><strong>Manage Events</strong></li>
 <li><strong>Manage Givings/Tithes</strong></li>
 <li><strong>Manage System Users</strong></li>
-<li><strong>Search Member using Mobile number</strong></li>
-<li><strong>Add church slots</strong></li>
+<li><strong>Search Member using Mobile Number</strong></li>
+<li><strong>Add Church Slots</strong></li>
 </ul>
 <p><strong>Members</strong></p>
 <ul>
