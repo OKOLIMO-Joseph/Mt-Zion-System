@@ -1,9 +1,22 @@
 .body {
-	background:url(../../images/gadgets1.jpg)no-repeat center center fixed ;
-		-webkit-background-size: cover !important; 
-	-moz-background-size: cover !important; 
-	-o-background-size: cover !important; 
-	background-size: cover !important; 
+    position: relative;
+    /* Remove any existing background property here */
+}
+
+.body::before {
+    content: "";
+    background: url(../../images/gadgets1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.3; /* 20% opacity */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
 }
 .setfooter
 {
