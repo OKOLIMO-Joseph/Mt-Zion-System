@@ -53,29 +53,30 @@
        <!-- /block -->
    </div>
 
-   <?php
+<?php
+if (isset($_POST['send'])) {
 
-    if (isset($_POST['send'])) {
+    // Escape all string inputs
+    $title = mysqli_real_escape_string($conn, $_POST['title']);
+    $slots = intval($_POST['slots']); // assuming 'slots' is an integer
+    $eventDate = mysqli_real_escape_string($conn, $_POST['eventDate']);
+    $description = mysqli_real_escape_string($conn, $_POST['description']);
+    $u_id = intval($_SESSION['id']); // assuming u_id is an integer
 
-        $title = $_POST['title'];
-        $slots = $_POST['slots'];
-        $eventDate = $_POST['eventDate'];
-        $description = $_POST['description'];
-        $u_id = $_SESSION['id'];
-        $qry = "INSERT INTO slotsreserved (title,slots,eventDate,description,u_id)
-							VALUES('$title','$slots','$eventDate','$description','$u_id')";
-        $result = mysqli_query($conn, $qry) or die(mysqli_error());
-        if ($result == TRUE) {
-            echo "<script type = \"text/javascript\">
-											
-											window.location = (\"addResrveSlots.php\")
-											</script>";
-        } else {
-            echo "<script type = \"text/javascript\">
-											alert(\"message Not Send. Try Again\");
-											</script>";
-        }
+    // Build query safely
+    $qry = "INSERT INTO slotsreserved (title, slots, eventDate, description, u_id)
+            VALUES ('$title', $slots, '$eventDate', '$description', $u_id)";
+
+    $result = mysqli_query($conn, $qry) or die(mysqli_error($conn));
+
+    if ($result) {
+        echo "<script type='text/javascript'>
+                window.location = 'addResrveSlots.php';
+              </script>";
+    } else {
+        echo "<script type='text/javascript'>
+                alert('Message not sent. Try again.');
+              </script>";
     }
-
-
-    ?>
+}
+?>
