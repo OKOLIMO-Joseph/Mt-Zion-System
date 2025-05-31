@@ -21,7 +21,7 @@
                                <td><input type="text" name="title" placeholder="Title"></td>
                            </tr>
                            <tr>
-                               <td>&nbsp; No of slots available</td>
+                               <td>&nbsp; Number of slots available</td>
                            </tr>
                            <tr>
                                <td><input type="number" name="slots" placeholder="slots"></td>
