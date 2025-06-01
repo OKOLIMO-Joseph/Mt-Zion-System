@@ -46,7 +46,7 @@
 										  <tr>
 												<th></th>
 												<th>Name</th>
-												<th>mobile</th>
+												<th>Mobile</th>
                                                 <th>Residence</th>
 												<!-- <th></th> -->
 										   </tr>
