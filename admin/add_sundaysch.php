@@ -25,7 +25,7 @@
                  ?>	 
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left"></i><i class="icon-members"></i> Church Sunday School(s) List</div>
+                                <div class="muted pull-left"></i><i class="icon-members"></i> Church Sabbath School(s) List</div>
 								<div class="muted pull-right">
 								Number of Sunday School Kids: <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
