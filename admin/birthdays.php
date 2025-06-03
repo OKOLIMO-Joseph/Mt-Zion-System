@@ -67,7 +67,7 @@ WHERE  DATE_ADD(STR_TO_DATE(Birthday, '%Y-%m-%d'), INTERVAL YEAR(CURDATE())-YEAR
 			        <th>Place of Birth</th>
 					<th>Birthday</th>
 					<th>Ministry</th>
-                    <th>mobile No. </th>
+                    <th>Mobile No. </th>
                     	
                    		
                     				
