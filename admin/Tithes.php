@@ -24,7 +24,7 @@
                         <div class="navbar navbar-inner block-header">
                              <div class="muted pull-left"><i class="icon-reorder icon-large"></i> Payment List</div>
                           <div class="muted pull-right">
-								Number of payments: <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of Payments: <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
 						  </div>
 						  
