@@ -60,7 +60,7 @@
 		<thead>		
 		        <tr>			        
                 	<th>member Name </th>
-					<th>mobile No. </th>
+					<th>Mobile No. </th>
 					<th>Transaction Code</th>
 					<th>Amount</th>
 			       
