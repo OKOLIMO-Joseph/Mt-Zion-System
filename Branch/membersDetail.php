@@ -56,13 +56,13 @@
 									<?php include('modal_delete.php'); ?>
 										<thead>		
 		        <tr>	
-<th>Check</th>		        
+					<th>Check</th>		        
                 	<th>Name</th>
 					<th>Gender </th>
 					<th>Residence</th>
 			        <th>Place of Birth</th>
 					<th>Birthday</th>
-					<th>ministry</th>
+					<th>Ministry</th>
                     <th>mobile No. </th>
                     	
                    		
