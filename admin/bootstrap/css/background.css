@@ -1,7 +1,25 @@
-body{
-background: url(../../images/gadgets1.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover !important; 
-	-moz-background-size: cover !important; 
-	-o-background-size: cover !important; 
-	background-size: cover !important; 	
+body {
+    font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	font-weight: 400;
+	font-size: 15px;
+	color: rgb(24, 192, 156);
+	overflow-y: scroll;
+	position: relative;
+	margin: 0;
+}
+
+body::before {
+    content: "";
+    background: url(../../images/gadgets1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover !important; 
+    -moz-background-size: cover !important; 
+    -o-background-size: cover !important; 
+    background-size: cover !important;
+    opacity: 0.3; /* 30% opacity */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
 }
