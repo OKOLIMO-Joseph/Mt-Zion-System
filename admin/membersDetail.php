@@ -46,7 +46,7 @@
                                 <div class="span12">
 								<form action="delete_member.php" method="post">
   									<table cellpadding="0" cellspacing="0" border="0" class="table" id="example">
-						            <a href="delete_member.php" data-placement="right" title="Click to Delete checked item" data-toggle="modal" id="delete"  class="btn btn-danger" name="delete_member"><i class="icon-trash icon-large"> Delete</i></a>
+						            <a href="delete_member.php" data-placement="right" title="Click to Delete checked item" data-toggle="modal" id="delete"  class="btn btn-danger" name="delete_member"><i class="icon-trash icon-large"> Delete</i></a>sse
 									<script type="text/javascript">
 									 $(document).ready(function(){
 									 $('#delete').tooltip('show');
