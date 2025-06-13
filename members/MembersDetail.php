@@ -24,7 +24,7 @@
                         <div class="navbar navbar-inner block-header">
                              <div class="muted pull-left"><i class="icon-reorder icon-large"></i> Registered members List</div>
                           <div class="muted pull-right">
-								Number of Registered members: <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of Registered Members: <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
 						  </div>
 						  
