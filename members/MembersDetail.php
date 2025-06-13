@@ -28,7 +28,7 @@
 							 </div>
 						  </div>
 						  
-                 <h4 id="sc">members List 
+                 <h4 id="sc">Members List 
 					<div align="right" id="sc">Date:
 						<?php
                             $date = new DateTime();
