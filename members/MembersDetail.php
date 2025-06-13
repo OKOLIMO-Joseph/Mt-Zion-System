@@ -65,7 +65,7 @@
 			        <th>Place of Birth</th>
 					<th>Birthday</th>
 					<th>Ministry</th>
-                    <th>mobile No. </th>
+                    <th>Mobile No. </th>
                     	
                    		
                     				
