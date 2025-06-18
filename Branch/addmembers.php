@@ -3,7 +3,7 @@
                         <!-- block -->
  <div class="block">
  <div class="navbar navbar-inner block-header">
-<div class="muted pull-left"><i class="icon-plus-sign icon-large"> Register New member</i></div>
+<div class="muted pull-left"><i class="icon-plus-sign icon-large"> Register New Member</i></div>
 </div>
 <div class="block-content collapse in">
                                 <div class="span12">
