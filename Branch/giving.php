@@ -59,7 +59,7 @@
   	<table cellpadding="0" cellspacing="0" border="0" class="table" id="example">
 		<thead>		
 		        <tr>			        
-                	<th>member Name </th>
+                	<th>Member Name </th>
 					<th>mobile No. </th>
 					<th>Transaction Code</th>
 					<th>Amount</th>
