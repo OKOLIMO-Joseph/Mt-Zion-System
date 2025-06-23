@@ -5,7 +5,7 @@ dbcon();
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Church manager</title>
+        <title>Church Manager</title>
 		<meta name="description" content="church manager">
 		<meta name="author" content="Kithinji Godfrey">
 		<meta charset="UTF-8">	
