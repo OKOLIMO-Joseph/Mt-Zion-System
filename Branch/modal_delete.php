@@ -70,7 +70,7 @@
 					<div id="delete_member" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="mymodalLabel" aria-hidden="true">
 					<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-					<h3 id="mymodalLabel">Delete member ?</h3>
+					<h3 id="mymodalLabel">Delete Member ?</h3>
 					</div>
 					<div class="modal-body">
 					<div class="alert alert-danger">
