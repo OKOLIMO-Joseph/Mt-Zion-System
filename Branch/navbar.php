@@ -9,7 +9,7 @@
                      <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                     </a>
-                    <span class="brand" href="#">Deliverance Church Donholm  Admin Panel</span>
+                    <span class="brand" href="#">SDA Church Mt. Zion Admin Panel</span>
 				 </div>
 				  <!--.nav-collapse -->
                     <div class="nav-collapse collapse">
