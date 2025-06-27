@@ -25,7 +25,7 @@ $username = $_POST['username'];
                  ?>	 
 				   <div id="block_bg" class="block">
                         <div class="navbar navbar-inner block-header">
-                             <div class="muted pull-left"><i class="icon-reorder icon-large"></i>member Search Result List</div>
+                             <div class="muted pull-left"><i class="icon-reorder icon-large"></i>Member Search Result List</div>
                           <div class="muted pull-right">
 								Number of Search members : <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
