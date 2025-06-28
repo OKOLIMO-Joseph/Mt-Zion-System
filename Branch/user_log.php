@@ -17,7 +17,7 @@
                             <div class="navbar navbar-inner block-header">
                                 <div class="muted pull-left"><i class="icon-group"></i> Users Log List</div>
 								<div class="muted pull-right">
-								Number of System User Log: <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of System User Logs: <span class="badge badge-info"><?php  echo $count; ?></span>
 								</div>
                             </div>
                             <div class="block-content collapse in">
