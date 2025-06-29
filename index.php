@@ -55,7 +55,7 @@
 								</p>
                                 <p class="change_link">
 									Not a member yet ?
-									<a href="#toregister" class="to_register">Join us</a>
+									<a href="#toregister" class="to_register">Join Us</a>
 								</p>
                             </form>
                         </div>
