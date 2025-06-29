@@ -118,7 +118,7 @@
 </select> 
                                 </p>
 								 <p> 
-                                    <label for="emailsignup" class="youmail" data-icon="e" > Your email</label>
+                                    <label for="emailsignup" class="youmail" data-icon="e" > Your Email</label>
                                     <input id="emailsignup" name="email" required="required" type="email" placeholder="mysupermail@mail.com"/> 
                                 </p>
                                 <p> 
