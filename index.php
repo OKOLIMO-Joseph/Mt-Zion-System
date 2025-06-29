@@ -37,7 +37,7 @@
                     <div id="wrapper">
                         <div id="login" class="animate form">
                             <form  action="login.php" method="POST" autocomplete="on"> 
-                                <h1>Sign in</h1> 
+                                <h1>Sign In</h1> 
                                 <p> 
                                     <label for="username" class="uname" data-icon="u" > Username </label>
                                     <input id="username" name="username" required="required" type="text" placeholder="Mobile Number"/>
