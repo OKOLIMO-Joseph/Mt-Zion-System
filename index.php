@@ -142,7 +142,7 @@
 									<input type="submit" value="Sign up" name="submit"/> 
 								</p>
                                 <p class="change_link">  
-									Already a member ?
+									Already a Member ?
 									<a href="#tologin" class="to_register"> Go and log in </a>
 								</p>
                             </form>
