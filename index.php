@@ -143,7 +143,7 @@
 								</p>
                                 <p class="change_link">  
 									Already a Member ?
-									<a href="#tologin" class="to_register"> Go and log in </a>
+									<a href="#tologin" class="to_register"> Go and Log in </a>
 								</p>
                             </form>
                         </div>
