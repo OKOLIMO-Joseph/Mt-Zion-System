@@ -23,7 +23,7 @@
                             <div class="navbar navbar-inner block-header">
                                 <div class="muted pull-left"><i class="icon-user"></i> System User Activity Log</div>
 								<div class="muted pull-right">
-								Number of System user Activity Log: <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of System User Activity Log: <span class="badge badge-info"><?php  echo $count; ?></span>
 								</div>
                             </div>
                             <div class="block-content collapse in">
