@@ -27,7 +27,7 @@
                             <div class="navbar navbar-inner block-header">
                                 <div class="muted pull-left"></i><i class="icon-members"></i> Church Members (s) List</div>
 								<div class="muted pull-right">
-								Number of Church members: <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of Church Members: <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
                             </div>
                             <div class="block-content collapse in">
