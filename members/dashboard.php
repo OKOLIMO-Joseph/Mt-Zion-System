@@ -59,7 +59,7 @@
                                                                 </div>
                                                                 <div class="span8 text-right"><br />
                                                                     <div class="huge"><?php echo $sum; ?></div>
-                                                                    <div>my Total Tithes</div><br />
+                                                                    <div>My Total Tithes</div><br />
                                                                 </div>
                                                             </div>
                                                         </div>
