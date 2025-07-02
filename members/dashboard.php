@@ -89,7 +89,7 @@
                                                                 </div>
                                                                 <div class="span8 text-right"><br />
                                                                     <div class="huge"><?php echo $sum1; ?></div>
-                                                                    <div>my Total Offering</div><br />
+                                                                    <div>My Total Offering</div><br />
                                                                 </div>
                                                             </div>
                                                         </div>
