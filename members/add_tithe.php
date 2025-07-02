@@ -32,7 +32,7 @@
           <div class="control-group">
             <div class="controls">
               <button name="save" class="btn btn-info" id="submit-button" data-placement="right" title="Click to Save">
-                <i class="icon-plus-sign icon-large"> Pay with Visa</i>
+                <i class="icon-plus-sign icon-large"> Pay With Visa</i>
               </button>
               <script type="text/javascript">
                 $(document).ready(function() {
