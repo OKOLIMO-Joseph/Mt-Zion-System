@@ -123,7 +123,7 @@
                                                                 </div>
                                                                 <div class="span8 text-right"><br />
                                                                     <div class="huge"><?php echo $sum2; ?></div>
-                                                                    <div>my Total Free Will Offering</div><br />
+                                                                    <div>My Total Free Will Offering</div><br />
                                                                 </div>
                                                             </div>
                                                         </div>
