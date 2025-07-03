@@ -44,7 +44,7 @@
 								        <hr>
 										<p>Name: Joseph OKOLIMO</p>
 										<p>Address:meru</p>
-										<p>Email:<a href="http://www.gmail.com"> godkith19@gmail.com</a></p>
+										<p>Email:<a href="http://www.gmail.com"> okolimo</a></p>
 										<p>Position: Web Programmer </p>
 								        </center>
 								</div>
