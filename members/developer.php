@@ -43,7 +43,7 @@
 								        <img id="developers" src="developers/admin.jpg" class="img-circle">
 								        <hr>
 										<p>Name: Joseph OKOLIMO</p>
-										<p>Address:meru</p>
+										<p>Address: Mukono</p>
 										<p>Email:<a href="http://www.gmail.com"> okolimofficial@gmail.com</a></p>
 										<p>Position: Web Programmer </p>
 								        </center>
