@@ -42,7 +42,7 @@
 										<center>
 								        <img id="developers" src="developers/admin.jpg" class="img-circle">
 								        <hr>
-										<p>Name: Kithinji Godfrey</p>
+										<p>Name: Joseph </p>
 										<p>Address:meru</p>
 										<p>Email:<a href="http://www.gmail.com"> godkith19@gmail.com</a></p>
 										<p>Position: Web Programmer </p>
