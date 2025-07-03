@@ -45,7 +45,7 @@
 										<p>Name: Joseph OKOLIMO</p>
 										<p>Address: Mukono</p>
 										<p>Email:<a href="http://www.gmail.com"> okolimofficial@gmail.com</a></p>
-										<p>Position: Software </p>
+										<p>Position: Software Developer</p>
 								        </center>
 								</div>
 								</p>
