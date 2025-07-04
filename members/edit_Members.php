@@ -25,9 +25,9 @@
 					 
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left"><i class="icon-user"></i>  members(s) List</div>
+                                <div class="muted pull-left"><i class="icon-user"></i>  Members(s) List</div>
 								<div class="muted pull-right">
-								Number of members <span class="badge badge-info"><?php  echo $count; ?></span>
+								Number of Members <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
                             </div>
                             <div class="block-content collapse in">
