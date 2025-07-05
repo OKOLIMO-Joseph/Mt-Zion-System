@@ -22,7 +22,7 @@
                  ?>	 
 				   <div id="block_bg" class="block">
                         <div class="navbar navbar-inner block-header">
-                             <div class="muted pull-left"><i class="icon-reorder icon-large"></i>Giving list</div>
+                             <div class="muted pull-left"><i class="icon-reorder icon-large"></i>Giving List</div>
                           <div class="muted pull-right">
 								Number of Payments: <span class="badge badge-info"><?php  echo $count; ?></span>
 							 </div>
