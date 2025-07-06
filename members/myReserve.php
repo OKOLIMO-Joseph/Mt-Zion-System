@@ -70,7 +70,7 @@
                             <div style="display: none; font-size:large; " style="font-weight:bold;" class="span20" id="printableArea">
                                 <div class="empty">
                                     <div class="alert alert-success alert-dismissable">
-                                        Slot reserved
+                                        Slot Reserved
                                     </div>
                                 </div>
                                 <table cellpadding="0" cellspacing="2" border="0" class="" id="example">
