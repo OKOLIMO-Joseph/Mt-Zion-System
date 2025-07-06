@@ -60,7 +60,7 @@ if (mysqli_connect_error()){
       <tr height="30px">
       	<th style="border-bottom:1px solid #333;"> Admin_No </th>
       	<th style="border-bottom:1px solid #333;"> Name </th>
-        <th style="border-bottom:1px solid #333;"> Fees paid </th>
+        <th style="border-bottom:1px solid #333;"> Fees Paid </th>
         <th style="border-bottom:1px solid #333;"> Balance </th>
         <th style="border-bottom:1px solid #333;"> Branch</th>
         
