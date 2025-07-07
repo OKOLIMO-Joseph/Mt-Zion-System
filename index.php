@@ -43,7 +43,7 @@
                                     <input id="username" name="username" required="required" type="text" placeholder="Mobile Number"/>
                                 </p>
                                 <p> 
-                                    <label for="password" class="youpasswd" data-icon="p"> Your password </label>
+                                    <label for="password" class="youpasswd" data-icon="p"> Your Password </label>
                                     <input id="password" name="password" required="required" type="password" placeholder="eg. X8df!90EO" /> 
                                 </p>
                                 <p class="keeplogin"> 
