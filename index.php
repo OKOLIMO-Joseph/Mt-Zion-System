@@ -62,7 +62,7 @@
 
                         <div id="register" class="animate form">
                             <form  action="reg.php" method="POST" autocomplete="on"> 
-                                <h1> Sign up </h1> 
+                                <h1> Sign Up </h1> 
                                 <p> 
                                     <label for="usernamesignup" class="uname" data-icon="u">First Name</label>
                                     <input id="usernamesignup" name="fname" required="required" type="text" placeholder="John" />
