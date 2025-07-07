@@ -48,7 +48,7 @@
                                 </p>
                                 <p class="keeplogin"> 
 									<input type="checkbox" name="loginkeeping" id="loginkeeping" value="loginkeeping" /> 
-									<label for="loginkeeping">Keep Me logged in</label>
+									<label for="loginkeeping">Keep Me Logged in</label>
 								</p>
                                 <p class="login button"> 
                                     <input type="submit" value="Login"  name="login"/> 
