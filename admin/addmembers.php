@@ -81,7 +81,7 @@
             <div class="controls">
               <p>
                 <select class="input focused" name="ministry" id="focusedInput" required="required" type="text">
-                  <option value="">Select ministry</option>
+                  <option value="">Select Ministry</option>
                   <option value="None">None</option>
                   <option value="Coristers">Coristers</option>
                   <option value="Deacon">Deacon</option>
