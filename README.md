@@ -33,7 +33,7 @@ This Church Management System was developed using PHP, HTML, CSS, JavaScript, an
 <li><strong>View Upcoming Events</strong></li>
 <li><strong>View Upcoming Birthdays</strong></li>
 <li><strong>View System Account</strong></li>
-<li><strong>Reserve slots</strong></li>
+<li><strong>Reserve Slots</strong></li>
 </ul>
 <div class="text-center content-middle-ads my-2">
 
