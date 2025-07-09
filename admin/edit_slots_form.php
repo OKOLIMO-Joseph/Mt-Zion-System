@@ -19,7 +19,7 @@
       <!-- block -->
       <div class="block">
           <div class="navbar navbar-inner block-header">
-              <div class="muted pull-left"><i class="icon-plus-sign icon-large"> EDIt Slot</i></div>
+              <div class="muted pull-left"><i class="icon-plus-sign icon-large"> EDit Slot</i></div>
           </div>
           <div class="block-content collapse in">
               <div class="span12">
