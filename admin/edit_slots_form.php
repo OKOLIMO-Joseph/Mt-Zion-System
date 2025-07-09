@@ -37,7 +37,7 @@
                               <td><input type="text" name="title" value="<?php echo $row['title']; ?>"></td>
                           </tr>
                           <tr>
-                              <td>&nbsp; Numb of slots available</td>
+                              <td>&nbsp; Numbe of slots available</td>
                           </tr>
                           <tr>
                               <td><input type="number" name="slots" value="<?php echo $row['slots']; ?>"></td>
