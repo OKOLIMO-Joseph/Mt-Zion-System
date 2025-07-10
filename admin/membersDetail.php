@@ -22,7 +22,7 @@
                  ?>
                         <div id="block_bg" class="block">
                             <div class="navbar navbar-inner block-header">
-                                <div class="muted pull-left"><i class="icon-user"></i> Church members</div>
+                                <div class="muted pull-left"><i class="icon-user"></i> Church Members</div>
 								<div class="muted pull-right">
 								Number of Members: <span class="badge badge-info"><?php  echo $count; ?></span>
 								</div>
