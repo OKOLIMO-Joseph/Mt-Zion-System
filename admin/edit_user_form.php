@@ -1,5 +1,5 @@
    <div class="row-fluid">
-   <a href="admin_user.php" class="btn btn-info" id="add" data-placement="right" title="Click to Add System User" ><i class="icon-plus-sign icon-large"></i> Add System user</a>
+   <a href="admin_user.php" class="btn btn-info" id="add" data-placement="right" title="Click to Add System User" ><i class="icon-plus-sign icon-large"></i> Add System User</a>
    <script type="text/javascript">
 	$(document).ready(function(){
 	$('#add').tooltip('show');
