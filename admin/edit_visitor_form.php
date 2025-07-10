@@ -48,7 +48,7 @@
                                    <p>
                                     <select class="input focused" name="gender" id="focusedInput" required="required" type="text">
   <option value="<?php echo $row['Gender']; ?>" ><?php echo $row['Gender']; ?> </option>
-  <option value="male">male</option>
+  <option value="male">Male</option>
   <option value="Female">Female</option>
 
 </select>  
