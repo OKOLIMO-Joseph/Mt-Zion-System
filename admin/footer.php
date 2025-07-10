@@ -1,6 +1,6 @@
 <div class="setfooter">
 		<footer >
-           <p align="center"><h3 align="center"> &copy; Mt. Zion Church <?php
+           <p align="center"><h3 align="center"> &copy; S Mt. Zion Church <?php
  $date = new DateTime();
  echo $date->format(' Y');
  ?> </h3></p>
