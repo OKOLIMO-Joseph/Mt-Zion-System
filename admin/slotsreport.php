@@ -64,7 +64,7 @@
                 </table>
               </div>
               <a class="btn btn-primary btn-lg" style="background-color: blue;" href="javascript:void(0);" onclick="printPageArea('printableArea')">
-                Print report
+                Print Report
               </a>
             </div>
           </div>
