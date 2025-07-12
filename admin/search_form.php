@@ -10,7 +10,7 @@
     <form class="form-horizontal" method="post" action="search.php">
 	
 	          <div class="control-group">
-		      <label class="control-label" for="inputEmail">mobile Number</label>
+		      <label class="control-label" for="inputEmail">Mobile Number</label>
 			  <div class="controls">
 			  <input class="input focused" name="username" id="focusedInput" type="text" placeholder = "mobile Number" required>
 			  <?php
