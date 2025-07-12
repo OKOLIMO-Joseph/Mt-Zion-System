@@ -36,7 +36,7 @@
               <div style="display: ; font-size:large; " style="font-weight:bold;" class="span20" id="printableArea">
                 <div class="empty">
                   <div class="alert alert-success alert-dismissable">
-                    Slot reserved
+                    Slot Reserved
                   </div>
                 </div>
                 <table cellpadding="0" cellspacing="0" border="1" class="table" tyle="width:100%" id="example">
