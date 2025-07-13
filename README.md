@@ -44,15 +44,14 @@ This Church Management System was developed using PHP, HTML, CSS, JavaScript, an
 <li><strong>Download </strong>and <strong>Install </strong>any<strong> local web server</strong> such as <strong>XAMPP/WAMP.</strong></li>
 <li><strong>Download </strong>the provided source code <strong>zip</strong> file. </li>
 </ul>
-<p><strong>Installation/Setup</strong></p>
+<p><strong>Installation /Setup</strong></p>
 <ol>
 <li><strong>Open </strong>your <strong>XAMPP/WAMP's Control Panel</strong> and start the <strong>"Apache"</strong> and <strong>"MySQL"</strong>.</li>
 <li><strong>Extract </strong>the <strong>downloaded source code file</strong>.</li>
 <li>If you are using <strong>XAMPP</strong>, <strong>copy </strong>the extracted source code folder and <strong>paste </strong>it into the<strong> XAMPP's "htdocs" directory</strong>. And If you are using <strong>WAMP</strong>, <strong>paste </strong>it into the <strong>"www" directory.</strong></li>
 <li><strong>Browse </strong>the <strong>PHPMyAdmin </strong>in a <strong>browser</strong>. i.e. <strong>```http://localhost/phpmyadmin```</strong></li>
 <li><strong>Create </strong>a <strong>new database</strong> naming <strong>"cman"</strong>.</li>
-<li><strong>Import </strong>the provided <strong>SQL </strong>file. The file is known as<strong> "cman.sql"</strong> located inside the extracted source code folder.</li>
-<li><strong>Browse </strong>the <strong>Church Management Software&nbsp;</strong>in a <strong>browser</strong>. i.e. <strong>http://localhost/cman </strong>and&nbsp;<strong>http://localhost/cman/admin&nbsp;</strong>&nbsp;for the admin side.</li>
+<li><strong>Import </strong>the provitrong>Browse </strong>the <strong>Church Management Software&nbsp;</strong>in a <strong>browser</strong>. i.e. <strong>http://localhost/cman </strong>and&nbsp;<strong>http://localhost/cman/admin&nbsp;</strong>&nbsp;for the admin side.</li>
 </ol>
 <p><strong>Admin Access</strong></p>
 <p>Username:&nbsp;<strong>admin</strong><br>
