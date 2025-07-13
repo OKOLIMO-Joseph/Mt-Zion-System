@@ -65,6 +65,7 @@ Password:&nbsp;<strong>admin</strong></p>
 <p><strong>For any inquiry and purchase.</strong><br>
 Email: <strong>okolimofficial@gmail.com</strong><br>
 Whatsapp: <strong>+256-753-271439</strong><br>
+Whatsapp: <strong>+256-753-271439</strong><br>
 </p>
 </div>
 
