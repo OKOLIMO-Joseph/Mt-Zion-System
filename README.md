@@ -44,7 +44,7 @@ This Church Management System was developed using PHP, HTML, CSS, JavaScript, an
 <li><strong>Download </strong>and <strong>Install </strong>any<strong> local web server</strong> such as <strong>XAMPP/WAMP.</strong></li>
 <li><strong>Download </strong>the provided source code <strong>zip</strong> file. </li>
 </ul>
-<p><strong>Installation /Setup</strong></p>
+<p><strong>Installation / Setup</strong></p>
 <ol>
 <li><strong>Open </strong>your <strong>XAMPP/WAMP's Control Panel</strong> and start the <strong>"Apache"</strong> and <strong>"MySQL"</strong>.</li>
 <li><strong>Extract </strong>the <strong>downloaded source code file</strong>.</li>
