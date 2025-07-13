@@ -64,7 +64,7 @@
 			        <th>Place of Birth</th>
 					<th>Birthday</th>
 					<th>Parent</th>
-                    <th>mobile No. </th>
+                    <th>Mobile No. </th>
                     	
                    		
                     				
